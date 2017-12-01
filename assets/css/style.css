@@ -1,7 +1,9 @@
 body {
     background-image: url("https://www.xmple.com/wallpaper/gradient-green-linear-blue-1920x1080-c2-adff2f-00ced1-a-210-f-14.svg");
-    height: 100%;
-    width: 100%;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
    
 }
 
@@ -9,35 +11,38 @@ header {
     font-size: 30px;
     color: blue;
     background: grey;
-    width: 300px;
     padding: 30px;
     margin-top: 10px;
-    margin-left: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-style: dotted;
+    border: 20px;
+    
+    
 }
 
 #game-instructions {
     background: lightyellow;
-    width: 400px;
-    margin-left: 10px;
+    margin-left: 200px;
     padding: 30px;
+    margin-right: 200px;
 }
+
+
 
 h3 {
     background: lightcoral;
-    width: 100px;
     padding: 20px;
-    text-align: center;
     font-size: 30px;
-    margin-left: 10px;
-
+    margin-left: 400px;
+    margin-right: 400px
 }
 h4 {
     background: rgb(158, 128, 240);
-    width: 120px;
     padding: 25px;
-    text-align: center;
     font-size: 30px;
-    margin-left: 10px;
+    margin-left:400px;
+    margin-right: 400px;
 
 }
 
@@ -45,10 +50,10 @@ h2 {
     
     color: rgb(155, 26, 101);
     font-size: 30px;
-    width: 172px;
     padding: 20px;
     background: rgba(9, 2, 21, 0.37);
-    margin-left: 10px;
+    margin-left: 400px;
+    margin-right: 400px;
 
 }
 
